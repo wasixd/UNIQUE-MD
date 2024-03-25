@@ -1,19 +1,19 @@
 {
-  "name": "(PRINCE-BOT)",
-  "description": "Prince MD A WhatsApp User BOT",
+  "name": "(UNIQUE-MD)",
+  "description": "UNIQUE-MD A WhatsApp User BOT",
   "logo": "https://telegra.ph/file/d9bcfd1ae673ebd58bd3e.jpg",
-  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "keywords": ["wasimd", "UNIQUE-bot", "wasi-tech", "whatsapp-automation"],
+  "repository": "https://github.com/wasixd/UNIQUE-MD",
   
   "stack": "container",
   "env": {
        "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "your mongodb database url for better exprince of unique md",
       "required": false,
       "value": ""
       },
      "MODE": {
-      "description": "mode public or private",
+      "description": "mode public or private choise by u own",
       "required": true,
       "value": "public"
        },
@@ -53,6 +53,20 @@
       "value": ""
     }
     },
+  "owner":{
+    "description": "Enter owner number",
+      "required": false,
+      "value": "923192173398"
+  }
+},
+"img":{
+  "description": "add your image url here",
+      "required": false,
+      "value": ""
+}
+},
+
+    
   "buildpacks": [
     {
       "url": "heroku/nodejs"
