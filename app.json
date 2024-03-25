@@ -32,7 +32,7 @@
       "required": false,
       "value": ""
      },
-    "antidelete": {
+   "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
       "value": "false"
@@ -53,19 +53,6 @@
       "value": ""
     }
     },
-  "owner":{
-    "description": "Enter owner number",
-      "required": false,
-      "value": "923192173398"
-  }
-},
-"img":{
-  "description": "add your image url here",
-      "required": false,
-      "value": ""
-}
-
-    
   "buildpacks": [
     {
       "url": "heroku/nodejs"
