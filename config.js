@@ -97,11 +97,11 @@ global.img17 = 'https://i.imgur.com/9yLH4W4.jpeg'**/
 
 //Chatgpt
 global.gpt1 = fs.readFileSync("./Assets/GPT/gpt1.jpg")
-global.gpt2 = fs.readFileSync("./Assets/GPT/gpt2.png")
+/**global.gpt2 = fs.readFileSync("./Assets/GPT/gpt2.png")
 global.gpt3 = fs.readFileSync("./Assets/GPT/gpt3.png")
 global.gpt4 = fs.readFileSync("./Assets/GPT/gpt4.png")
 global.gpt5 = fs.readFileSync("./Assets/GPT/gpt5.png")
-global.gpt6 = fs.readFileSync("./Assets/GPT/gpt6.png")
+global.gpt6 = fs.readFileSync("./Assets/GPT/gpt6.png")**/
 //💌------------------------------------------💌
 
 
@@ -136,8 +136,8 @@ global.thumb = fs.readFileSync('./Assets/wasi.jpeg')
 
 
 //Reactions
-global.wait = '*♻️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
-global.imgs = '*🖼️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*♻️ _WAIT DEAR UNIQUE-MD GETTING YOUR FILE..._*\n*▰▰▰▱▱▱▱▱*'
+global.imgs = '*🖼️ _WAIT BABE..................._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '♻️'
 global.dmoji = '🤭'
 global.done = '✅'
