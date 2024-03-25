@@ -1,0 +1,9 @@
+node_modules
+node_modules
+package-lock.json
+prince.data.json
+database.json
+.env
+session
+tmp
+session.json
