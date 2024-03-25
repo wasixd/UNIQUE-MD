@@ -106,10 +106,10 @@ global.gpt6 = fs.readFileSync("./Assets/GPT/gpt6.png")
 
 
 // Randome
-global.princeMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img16, img17]
-global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11]
-global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
-//💌------------------------------------------💌
+global.princeMenu = [img]    // img2, img6, img7, img8, img9, img13, img14, img15, img16, img17]
+global.princeImg = [imagen1]  // imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11]
+global.princegpt = [gpt1]     // gpt2, gpt3, gpt4, gpt5, gpt6]
+//💌------------------------------------------💌 
 
 
 
@@ -120,17 +120,17 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = 'UNIQUE-MD'
+global.princebot = 'UNIQUE-MD-BOT'
+global.packname = 'MADE BY♥️' 
+global.author = 'UNIQUE-MD' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
-global.princeyt = 'https://youtube.com/'
+global.Princesc = 'https://github.com/wasixd/UNIQUE-MD' 
+global.princeyt = 'https://youtube.com/wasitech1'
 global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
-global.thumb = fs.readFileSync('./Assets/Prince.png')
+global.thumb = fs.readFileSync('./Assets/wasi.jpeg')
 //💌------------------------------------------💌
 
 
