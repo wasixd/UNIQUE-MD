@@ -97,7 +97,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwasixd%2FUNIQUE-MD)***
 8.  ***Deploy on [`Replit`](https://replit.com/github/wasixd/UNIQUE-MD)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/wasixd/UNIQUE-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=UNIQUE+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-m&eUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/wasuxd/UNIQUE-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=UNIQUE+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=UNIQUE&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=UNIQUE-MD&env[KOYEB_NAME]=UNIQUE-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/c1dad3e9147a118b80693.jpg)***
 
 ##
 ---
