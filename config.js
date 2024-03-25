@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["923192173398", "255698101622", false],
   [''], 
   [''] 
 ]
@@ -20,9 +20,9 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
-global.prems = ['']
-global.allowed = ['']
+global.mods = ['923192173398'] 
+global.prems = ['255698101622']
+global.allowed = ['923192173398']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -60,8 +60,8 @@ global.APIKeys = { // APIKey Here
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
-global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
+global.imagen1 = fs.readFileSync("./Assets/menus/Menu.jpeg")
+/**global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
 global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
 global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
 global.imagen5 = fs.readFileSync("./Assets/menus/img2.jpg")
@@ -70,13 +70,13 @@ global.imagen7 = fs.readFileSync("./Assets/menus/img6.jpg")
 global.imagen8 = fs.readFileSync("./Assets/menus/img8.jpg")
 global.imagen9 = fs.readFileSync("./Assets/menus/img9.jpg")
 global.imagen10 = fs.readFileSync("./Assets/menus/img11.jpg")
-global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
+global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")**/
 //💌------------------------------------------💌
 
 
 
 global.img = 'https://i.imgur.com/IXlUwTW.jpg'
-global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
+/**global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
 global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' 
 global.img4 = 'https://i.imgur.com/i0pccuo.jpg' 
 global.img5 = 'https://i.imgur.com/iL1snRx.jpeg'
@@ -91,7 +91,7 @@ global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
 global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
 global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
 global.img16 = 'https://i.imgur.com/JpYfcH0.jpeg'
-global.img17 = 'https://i.imgur.com/9yLH4W4.jpeg'
+global.img17 = 'https://i.imgur.com/9yLH4W4.jpeg'**/
 //💌------------------------------------------💌
 
 
