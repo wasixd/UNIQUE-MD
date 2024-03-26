@@ -144,7 +144,7 @@ global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🌀' 
 global.multiplier = 69 
-global.maxwarn = '2' 
+global.maxwarn = '4' 
 //💌------------------------------------------💌
 
 
