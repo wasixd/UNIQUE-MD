@@ -1,5 +1,5 @@
 { 
-    "name": "UNIQUE-MD",
+    "name": "prince-bot",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -18,23 +18,23 @@
         "whatsapp-bot",
         "whatsapp",
         "js-whatsapp",
-        "UNIQUE-MDwhatsapp",
-        "UNIQUE-MD-bot",
-        "UNIQUE-MD-md",
-        "UNIQUE-MD-multi-device",
+        "whatsapp",
+        "prince-bot",
+        "PRINCE-bot-md",
+        "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/wasixd/UNIQUE-MD",
+    "homepage": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
     "author": {
-        "name": "unique"
+        "name": "PRINCE"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wasixd/UNIQUE-MD.git"
+        "url": "git+https://github.com/PRINCE-GDS/THE-PRINCE-BOT.git"
     },
     "bugs": {
-        "url": "https://github.com/wasixd/UNIQUE-MD/issues"
+        "url": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
@@ -117,4 +117,4 @@
     "overrides": {
 "cache-manager": "5.2.2"
 }
-    }
+}
