@@ -45,7 +45,7 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 
 
 ❏FORK THE REPOSITORY 
-  <a href="https://github.com/Xcelsam/UNIQUE-MD/fork" target="_blank">
+  <a href="https://github.com/wasixd/UNIQUE-MD/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK UNIQUE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -76,9 +76,11 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 
 
 
-## `CONTRIBUTOR`
-```FOR QR Idea,bug fixies```
-[![Xcelsama]( https://github.com/Xcelsama.png?size=200)](https://github.com/Xcelsama/STAR-MD-V2) 
+## `DEV-TEAM`
 
-``````
-[![ASTA](https://github.com/Astropeda.png?size=200)](https://github.com/Astropeda) 
+
+[![Xcelsama](9https://github.com/wasixd.png?size=200)](https://github.com/wasixd) 
+
+
+[![wasixd]( https://github.com/Xcelsama.png?size=200)](https://github.com/Xcelsama/STAR-MD-V2) 
+
