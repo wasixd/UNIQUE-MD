@@ -1,15 +1,17 @@
-<h1 align="center"> UNIQUE-MD </h1> 
-<p align="center"> Introducing UNIQUE-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
-
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+our+site;we+are+venocyber+admin;and+wasixd+programmer;founder+of+this;project;and+creator+too;we're+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
-
-
 <p align="center">
   <a href="https://github.com/wasixd/UNIQUE-MD">
-    <img alt="Unique docs" height="300" src="https://telegra.ph/file/c1dad3e9147a118b80693.jpg">
+    <img alt="Unique docs" height="300" src="https://i.imgur.com/GTxuIJ0.jpeg">
   </a>
 </p>
     
+
+
+
+<h1 align="center"> UNIQUE-MD </h1> 
+<p align="center"> Introducing UNIQUE-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+
+
+
    
    
 <p align="center">
