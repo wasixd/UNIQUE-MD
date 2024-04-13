@@ -79,8 +79,12 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 ## `DEV-TEAM`
 
 
-[![Xcelsama](https://github.com/wasixd.png?size=200)](https://github.com/wasixd) 
+[![Wasixd](https://github.com/wasixd.png?size=200)](https://github.com/wasixd) 
 
 
-[![wasixd]( https://github.com/Xcelsama.png?size=200)](https://github.com/Xcelsama/STAR-MD-V2) 
+[![Xcelsama( https://github.com/Xcelsama.png?size=200)](https://github.com/Xcelsama/STAR-MD-V2) 
+
+[![Abraham](https://github.com/abrahamdw882.png?size=200)](https://github.com/abrahamdw882) 
+
+[![king jux](https://github.com/Kingjux.png?size=200)](https://github.com/Kingjux) 
 
