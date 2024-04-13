@@ -27,7 +27,7 @@ If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your apprec
 
 
 
-```🕯ＦＥＡＴＵＲＥＳ🕯```
+`🕯ＦＥＡＴＵＲＥＳ🕯`
 
 
 ◉ Multi-Device Support  
