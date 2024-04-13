@@ -23,7 +23,7 @@
 
 
 ## ⭐ `Star This Repo`
-If you find HARUKI-MD helpful, consider giving it a star ⭐ to show your appreciation,Support.
+If you find UNIQUE-MD helpful, consider giving it a star ⭐ to show your appreciation,Support.
 
 
 
@@ -45,8 +45,8 @@ If you find HARUKI-MD helpful, consider giving it a star ⭐ to show your apprec
 
 
 ❏FORK THE REPOSITORY 
-  <a href="https://github.com/Xcelsam/HARUKI-MD/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK HARUKI-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <a href="https://github.com/Xcelsam/UNIQUE-MD/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK UNIQUE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
